@@ -1,0 +1,65 @@
+[
+{
+  "name": "brand",
+  "settings": [
+    {
+      "type": "textarea",
+      "id": "brand_name",
+      "label": "Brand Name"
+    },
+    {
+      "type": "imagepicker",
+      "id": "brand_logo",
+      "label": "Brand Logo"
+    },
+    {
+      "type": "colorpicker",
+      "id": "brand_color",
+      "label": "Brand Color"
+    },
+    {
+      "type": "colorpicker",
+      "id": "h1_color",
+      "label": "H1 Color"
+    }
+  ]
+},
+{
+  "name": "Products",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title"
+    },
+    {
+      "type": "textarea",
+      "id": "subtitle",
+      "label": "Subtitle"
+    },
+    {
+      "type": "colorpicker",
+      "id": "text_color",
+      "label": "Text Color"
+    },
+    {
+      "type": "select",
+      "id": "background",
+      "label": [
+        {
+          "value": "blue",
+          "label": "Blue"
+        },
+        {
+          "value": "light_grey",
+          "label": "Light Grey"
+        },
+        {
+          "value": "black",
+          "label": "black"
+        }
+      ]
+    }
+  ]
+}
+]

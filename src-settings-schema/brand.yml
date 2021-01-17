@@ -1,0 +1,19 @@
+--- 
+name: 'brand'
+settings: 
+  - 
+    type: 'textarea'
+    id: 'brand_name'
+    label: 'Brand Name'
+  - 
+    type: 'imagepicker'
+    id: 'brand_logo'
+    label: 'Brand Logo'
+  - 
+    type: 'colorpicker'
+    id: 'brand_color'
+    label: 'Brand Color'
+  - 
+    type: 'colorpicker'
+    id: 'h1_color'
+    label: 'H1 Color'
